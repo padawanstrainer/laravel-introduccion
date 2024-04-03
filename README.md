@@ -1,2 +1,2 @@
-# laravel-crud
+# laravel-introduccion
 Ejemplo de CRUD con Laravel
